@@ -11,8 +11,8 @@ This project simulates a battery storage system trading on the MISO real-time ma
 * **Optimization:** Performed a sensitivity analysis showing that increasing discharge power from 20kW to 40kW resulted in an **85% profit increase** ($74.24 → $137.80).
 
 ## 📊 Results
-![MISO Summer Arbitrage]([LINK_TO_YOUR_GRAPH_IMAGE_HERE])
-*The bot successfully captured high-value spikes during the July-September period, proving the logic holds even with an 'efficiency tax' applied.*
+![MISO Summer Arbitrage](https://github.com/ojunk2/Energy-Arbitrage-Bot/blob/main/Screenshot%202026-04-13%20143827.png?raw=true)
+*The bot successfully captured high-value spikes during the July-September period, proving the logic holds even with an 'efficiency tax' applied.* 
 
 ## 🛠️ Technical Stack
 * **Language:** Python 3.x
